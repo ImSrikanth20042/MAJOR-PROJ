@@ -1,0 +1,9 @@
+pip install django==2.1.7
+pip install  --only-binary :all: mysqlclient
+pip install openpyxl
+pip install numpy==1.18.1
+pip install matplotlib==3.1.3 
+pip install pandas
+pip install sklearn-genetic==0.2
+pip install seaborn
+pip install xlwt
